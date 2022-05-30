@@ -1,3 +1,10 @@
+This is my first expirience working with **Angular**. I was learning some really basic things: how to use CLI, how to create an app, components, what every file is build for etc.
+
+
+
+
+
+
 # FirstProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
